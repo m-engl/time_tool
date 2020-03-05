@@ -1,0 +1,5 @@
+User  INTEGER
+Category INTEGER
+Start INTEGER
+Stop INTEGER
+Time diff. Stop - Start INTEGER
