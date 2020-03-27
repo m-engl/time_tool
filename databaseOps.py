@@ -69,6 +69,6 @@ class DB_Operator:
         return results
 
 
-
+##### testing class, to be deleted #####
 Damian = DB_Operator()
 Damian.create_database()
